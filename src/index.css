@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --main-color:#A82C48;
+    --text-color:#43121D;
+    --paragraph-color:#A4A2A2;
+}
+body {
+  font-family: 'Tajawal', sans-serif;
+  scroll-behavior: smooth;
+}
